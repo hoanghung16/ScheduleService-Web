@@ -27,7 +27,7 @@ ASP.NET Core 8 MVC cho ứng dụng đặt lịch và quản lý dịch vụ t�
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ScheduleService-Web.git
+git clone https://github.com/hoanghung16/ScheduleService-Web.git
 cd ScheduleService-Web/ScheduleService.Web
 ```
 
@@ -132,9 +132,9 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-- Email: your.email@example.com
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Email: weew3426@gmail.com
+- GitHub: [@hoanghung16](https://github.com/hoanghung16)
 
-## 📌 Related Repositories
+## 🔗 Related Repositories
 
-- **Backend API**: [ScheduleService-API](https://github.com/YOUR_USERNAME/ScheduleService-API)
+- **Backend API**: [ScheduleService-API](https://github.com/hoanghung16/ScheduleService-API)
