@@ -1,0 +1,48 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+bin/
+obj/
+dist/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+
+# Dependencies
+packages/
+node_modules/
+
+# Environment variables
+.env
+.env.local
+appsettings.Development.json
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# ASP.NET MVC specific
+wwwroot/lib/
+wwwroot/js/*.min.js
+wwwroot/css/*.min.css
